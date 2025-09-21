@@ -1,0 +1,8 @@
+It is working with: 
+1) esp32 Wrover Module
+2)ov2640 camera 
+esp32-Cam Board
+4) with Arduino ide 2.2.0
+5) with auto lazer with: "bottle", "tetra pack", "box", "keyboard","vase","rocket","paper","machine","car"
+6) it works only on internet wfi Hotspot with dlink as ssid
+7) it does not work with the network made by it.
